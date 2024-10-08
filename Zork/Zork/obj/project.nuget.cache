@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "MsuNoCXtzdKMd6fxRKCT5Zfw21QuBI37DZs+XLHBVk9sWuG97BeTArH7biOypeTG43zFMC+PyB3iurPWZMISTg==",
+  "dgSpecHash": "diDymF6ZYrkJHZkPz/Ye8V6bp31aAKjGgAW1TAYockkZ29QHe2lecoOuqf54ArFQhZ0NnmkeiTuLZfJox58zeQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Ryan\\Desktop\\Lab6-Zork\\Zork\\Zork\\Zork.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Ryan\\.nuget\\packages\\mstest.testframework\\3.6.1\\mstest.testframework.3.6.1.nupkg.sha512"
+  ],
   "logs": []
 }
