@@ -21,7 +21,7 @@ namespace Zork
         public Command(string name, IEnumerable<string> verbs, Action<Game, CommandContext> action)
         {
             Name = name;
-            verbs = verbs.ToArray();
+            Verbs = verbs.ToArray();
             Action = action;
         }
 
