@@ -27,5 +27,5 @@ C:\Users\Ryan\Desktop\Lab6-Zork\Zork\Zork\bin\Debug\netcoreapp3.1\tr\Microsoft.V
 C:\Users\Ryan\Desktop\Lab6-Zork\Zork\Zork\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
 C:\Users\Ryan\Desktop\Lab6-Zork\Zork\Zork\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
 C:\Users\Ryan\Desktop\Lab6-Zork\Zork\Zork\obj\Debug\netcoreapp3.1\Zork.csproj.CopyComplete
-C:\Users\Ryan\Desktop\Lab6-Zork\Zork\Zork\bin\Debug\netcoreapp3.1\Rooms.json
 C:\Users\Ryan\Desktop\Lab6-Zork\Zork\Zork\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Ryan\Desktop\Lab6-Zork\Zork\Zork\bin\Debug\netcoreapp3.1\Zork.json
