@@ -1,7 +1,0 @@
-C:\Users\Ryan\Desktop\Lab6-Zork\Zork\Zork\bin\Debug\Zork.exe.config
-C:\Users\Ryan\Desktop\Lab6-Zork\Zork\Zork\bin\Debug\Zork.exe
-C:\Users\Ryan\Desktop\Lab6-Zork\Zork\Zork\bin\Debug\Zork.pdb
-C:\Users\Ryan\Desktop\Lab6-Zork\Zork\Zork\obj\Debug\Zork.csproj.AssemblyReference.cache
-C:\Users\Ryan\Desktop\Lab6-Zork\Zork\Zork\obj\Debug\Zork.csproj.CoreCompileInputs.cache
-C:\Users\Ryan\Desktop\Lab6-Zork\Zork\Zork\obj\Debug\Zork.exe
-C:\Users\Ryan\Desktop\Lab6-Zork\Zork\Zork\obj\Debug\Zork.pdb
