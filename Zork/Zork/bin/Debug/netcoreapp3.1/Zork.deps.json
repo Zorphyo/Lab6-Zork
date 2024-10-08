@@ -8,7 +8,8 @@
     ".NETCoreApp,Version=v3.1": {
       "Zork/1.0.0": {
         "dependencies": {
-          "MSTest.TestFramework": "3.6.1"
+          "MSTest.TestFramework": "3.6.1",
+          "Newtonsoft.Json": "13.0.3"
         },
         "runtime": {
           "Zork.dll": {}
@@ -66,6 +67,14 @@
             "locale": "zh-Hant"
           }
         }
+      },
+      "Newtonsoft.Json/13.0.3": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "13.0.0.0",
+            "fileVersion": "13.0.3.27908"
+          }
+        }
       }
     }
   },
@@ -81,6 +90,13 @@
       "sha512": "sha512-ugHS5Bz+hlLBd7FSS9JokRrzjmlmDQIx0Hxj6LTJztH/CRkuzNM+hK9Zoa53DR/B4BysEpu16ZXnm6KLH6Vrzg==",
       "path": "mstest.testframework/3.6.1",
       "hashPath": "mstest.testframework.3.6.1.nupkg.sha512"
+    },
+    "Newtonsoft.Json/13.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-HrC5BXdl00IP9zeV+0Z848QWPAoCr9P3bDEZguI+gkLcBKAOxix/tLEAAHC+UvDNPv4a2d18lOReHMOagPa+zQ==",
+      "path": "newtonsoft.json/13.0.3",
+      "hashPath": "newtonsoft.json.13.0.3.nupkg.sha512"
     }
   }
 }
